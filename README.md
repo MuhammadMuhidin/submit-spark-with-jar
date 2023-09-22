@@ -1,4 +1,4 @@
-# Dibimbing, Data Engineering Bootcamp
+this project with concept send a jar file from airflow to spark with SparkSubmitOperator and driver_class_path.
 
 1. Clone This Repo.
 2. Run `make docker-build` for x86 user, or `make docker-build-arm` for arm chip user.
